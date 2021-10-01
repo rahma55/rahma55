@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rahma Aouini
+- 👩‍💻 I’m currently an engineering student specialized in Data Science 
+- 💞️ I am deeply passionate about how technology in general and AI in particular will move the humanity forward.
+- 📫 rahma.aouini@esprit.tn
